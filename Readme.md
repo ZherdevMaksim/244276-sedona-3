@@ -1,7 +1,8 @@
 # Личный проект «Седона»
 
 * Студент: [Максим Жердев](https://up.htmlacademy.ru/htmlcss-individual/3/user/244276).
-* Наставник: `Неизвестно`.
+* Наставник: [Анна Лисененкова](https://htmlacademy.ru/profile/ankhena).
+* Сайт: [Учебный проект 'Седона'](https://zherdevmaksim.github.io/244276-sedona-3/).
 
 ---
 
